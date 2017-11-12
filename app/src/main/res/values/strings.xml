@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">App Multilenguaje</string>
+    <string name="str_textview">Hello World!!!</string>
+    <string name="str_button">Change Language</string>
+    <string name="str_okbutton">Acceptar</string>
+
+    <string name="str_seleccion">Select Language</string>
+    <string name="str_en">English</string>
+    <string name="str_es">Spanish</string>
+    <string name="str_fr">French</string>
+    <string name="str_pt">Portuguese</string>
+
+
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+        <item>@string/str_fr</item>
+        <item>@string/str_pt</item>
+    </string-array>
+
+
+</resources>

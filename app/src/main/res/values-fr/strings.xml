@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Multilenguaje</string>
+    <string name="str_button">Changer Langue</string>
+    <string name="str_en">Anglais</string>
+    <string name="str_es">Espagnol</string>
+    <string name="str_fr">Français</string>
+    <string name="str_pt">Portugais</string>
+    <string name="str_textview">Bonjour le monde!</string>
+    <string name="str_seleccion">Choisir Langue</string>
+</resources>
